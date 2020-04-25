@@ -5,6 +5,7 @@ The goal of this work is to attribute events in rooms in an efficient way so tha
 On GitHub I only uploaded the code, if you are interested in the project I can provide documentation with complete statistics and the logical reasoning behind each choice made, as well as the results obtained. 
 Write me on my website!
 
+Model Mathematical (with CPLEX)
 <div align="center">
        <img src="math_model.png" width="900px"</img>  
 </div>
