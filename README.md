@@ -6,5 +6,5 @@ On GitHub I only uploaded the code, if you are interested in the project I can p
 Write me on my website!
 
 <div align="center">
-       <img src="screen_math.PNG" width="900px"</img>  
+       <img src="screen_math.png" width="900px"</img>  
 </div>
